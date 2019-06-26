@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jperdikis0057/jperdikis/_apis/build/status/jperdikis.pipelines-java?branchName=master)](https://dev.azure.com/jperdikis0057/jperdikis/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
